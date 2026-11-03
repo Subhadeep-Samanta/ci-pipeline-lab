@@ -103,3 +103,5 @@ jobs:
 
           echo "Application logs:"
           docker compose logs --no-color app
+
+# done the work
