@@ -65,3 +65,4 @@ gcloud run deploy app \
 This document describes a possible Cloud Run integration only.
 No Google Cloud resources have been created and no Cloud Run deployment
 has been performed as part of this assignment.
+<!-- No change only for re run the application -->
